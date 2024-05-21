@@ -1,14 +1,14 @@
 {
   "$schema": "../schema.json",
-  "name": "Pancho Bookstack",
+  "name": "line 3 name -Pancho Bookstack",
   "available": true,
   "exposable": true,
   "port": 8119,
   "id": "bookstack",
   "tipi_version": 20,
   "version": "24.05.20240513",
-  "description": "pancho BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. Default login: admin@admin.com password: password",
-  "short_desc": "BookStack is a self-hosted platform for organising and storing information.",
+  "description": "line 10 description - Pancho BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. Default login: admin@admin.com password: password",
+  "short_desc": "line 11 sshort_desc-Pancho BookStack is a self-hosted platform for organising and storing information.",
   "author": "Dan Brown",
   "categories": [
     "data"
